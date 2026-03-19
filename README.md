@@ -4,3 +4,5 @@ In this specific project I have aimed to implement a numerical simulation using 
 
 
 The Problem given: We have a tiny particle attached to a microscopic spring (a 1D harmonic oscillator) sitting in a warm room at 300 K. We want to know two things about it: its Average Energy and its Heat Capacity (how much energy it needs to change temperature).
+
+Project successfully demonstrates how Python and numerical modeling (Monte Carlo methods) can be used to bypass impossible calculus and accurately predict the physical and thermal behavior of complex systems.
