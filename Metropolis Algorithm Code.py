@@ -62,10 +62,7 @@ print(f"Theoretical Energy (0.5kT): {0.5 * kT:.4e} J")
 print(f"Heat Capacity (Cv): {Cv:.4e} J/K")
 
 
-# GENERATING THE PLOTS
-
-# Set up a figure with two side-by-side plots
-plt.figure(figsize=(14, 6))
+# GENERATING THE PLOT
 
 # The Distribution Plot (Histogram) 
 plt.subplot(1, 2, 1)
